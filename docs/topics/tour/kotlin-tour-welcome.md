@@ -10,19 +10,10 @@ Each chapter in this tour contains:
 * **Practice** with exercises to test your understanding of what you have learned.
 * **Solutions** for your reference.
 
-In this tour you will learn about:
+Start with our beginner tour to grasp the fundamentals:
 
-* [Variables](kotlin-tour-hello-world.md)
-* [Basic types](kotlin-tour-basic-types.md)
-* [Collections](kotlin-tour-collections.md)
-* [Control flow](kotlin-tour-control-flow.md)
-* [Functions](kotlin-tour-functions.md)
-* [Classes](kotlin-tour-classes.md)
-* [Null safety](kotlin-tour-null-safety.md)
+<a href="kotlin-tour-hello-world.md"><img src="start-beginner-tour.svg" width="700" alt="Start the Kotlin tour" style="block"/></a>
 
-To have the best experience, we recommend that you read through these chapters in order. But if you want, you can choose
-which chapters you want to read.
+Alternatively, if you're ready for the next level, try our intermediate tour:
 
-Ready to go?
-
-<a href="kotlin-tour-hello-world.md"><img src="start-kotlin-tour.svg" width="700" alt="Start the Kotlin tour" style="block"/></a>
+<a href="kotlin-tour-hello-world.md"><img src="start-intermediate-tour.svg" width="700" alt="Start the Kotlin tour style="block"/></a>

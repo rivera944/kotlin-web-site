@@ -1,5 +1,17 @@
 [//]: # (title: Intermediate: Null safety)
 
+<tldr>
+    <p><img src="icon-1-done.svg" width="20" alt="First step" /> <a href="kotlin-tour-intermediate-functions-part-1.md">Extension functions</a><br />
+        <img src="icon-2-done.svg" width="20" alt="Second step" /> <a href="kotlin-tour-intermediate-functions-part-2.md">Scope functions</a><br />
+        <img src="icon-3-done.svg" width="20" alt="Third step" /> <a href="kotlin-tour-intermediate-functions-part-3.md">Lambda expressions with receiver</a><br />
+        <img src="icon-4-done.svg" width="20" alt="Fourth step" /> <a href="kotlin-tour-intermediate-classes-part-1.md">Classes and interfaces</a><br />
+        <img src="icon-5-done.svg" width="20" alt="Fifth step" /> <a href="kotlin-tour-intermediate-classes-part-2.md">Objects</a><br />
+        <img src="icon-6-done.svg" width="20" alt="Sixth step" /> <a href="kotlin-tour-intermediate-classes-part-3.md">Open and special classes</a><br />
+        <img src="icon-7-done.svg" width="20" alt="Seventh step" /> <a href="kotlin-tour-intermediate-properties.md">Properties</a><br />
+        <img src="icon-8.svg" width="20" alt="Eighth step" /> <strong>Null safety</strong><br />
+        <img src="icon-7-todo.svg" width="20" alt="Seventh step" /> <a href="kotlin-tour-intermediate-libraries-and-apis.md">Libraries and APIs</a></p>
+</tldr>
+
 In the beginner's tour, you learned how to handle `null` values in your code, but there are also use cases when using 
 null safety features can be helpful.
 
@@ -663,3 +675,5 @@ fun main() {
 {initial-collapse-state="collapsed" collapsible="true" collapsed-title="Example solution" id="kotlin-tour-null-safety-solution-4"}
 
 ## Next step
+
+[Intermediate: Libraries and APIs](kotlin-tour-intermediate-libraries-and-apis.md)

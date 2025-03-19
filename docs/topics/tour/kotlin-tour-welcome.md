@@ -10,10 +10,10 @@ Each chapter in this tour contains:
 * **Practice** with exercises to test your understanding of what you have learned.
 * **Solutions** for your reference.
 
-Start with our beginner's tour to grasp the fundamentals:
+Start with our beginner tour to grasp the fundamentals:
 
 <a href="kotlin-tour-hello-world.md"><img src="start-beginner-tour.svg" width="700" alt="Start the beginner's Kotlin tour" style="block"/></a>
 
-If you're ready to take your projects to the next level, try our intermediate tour:
+If you're ready to take your understanding of Kotlin to the next level, take our intermediate tour:
 
 <a href="kotlin-tour-intermediate-functions-part-1.md"><img src="start-intermediate-tour.svg" width="700" alt="Start the intermediate Kotlin tour" style="block"/></a>

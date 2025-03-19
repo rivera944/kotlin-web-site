@@ -1,5 +1,17 @@
 [//]: # (title: Intermediate: Lambda expressions with receiver)
 
+<tldr>
+    <p><img src="icon-1-done.svg" width="20" alt="First step" /> <a href="kotlin-tour-intermediate-functions-part-1.md">Extension functions</a><br />
+        <img src="icon-2-done.svg" width="20" alt="Second step" /> <a href="kotlin-tour-intermediate-functions-part-2.md">Scope functions</a><br />
+        <img src="icon-3.svg" width="20" alt="Third step" /> <strong>Lambda expressions with receiver</strong><br />
+        <img src="icon-4-todo.svg" width="20" alt="Fourth step" /> <a href="kotlin-tour-intermediate-classes-part-1.md">Classes and interfaces</a><br />
+        <img src="icon-5-todo.svg" width="20" alt="Fifth step" /> <a href="kotlin-tour-intermediate-classes-part-2.md">Objects</a><br />
+        <img src="icon-6-todo.svg" width="20" alt="Sixth step" /> <a href="kotlin-tour-intermediate-classes-part-3.md">Open and special classes</a><br />
+        <img src="icon-7-todo.svg" width="20" alt="Seventh step" /> <a href="kotlin-tour-intermediate-properties.md">Properties</a><br />
+        <img src="icon-8-todo.svg" width="20" alt="Eighth step" /> <a href="kotlin-tour-intermediate-null-safety.md">Null safety</a><br />
+        <img src="icon-7-todo.svg" width="20" alt="Seventh step" /> <a href="kotlin-tour-intermediate-libraries-and-apis.md">Libraries and APIs</a></p>
+</tldr>
+
 In this chapter, you'll learn how to use receiver objects with another type of function, lambda expressions, and how they
 can make your code more concise and readable.
 
@@ -287,4 +299,4 @@ fun main() {
 
 ## Next step
 
-[Classes and interfaces](kotlin-tour-intermediate-classes-part-1.md)
+[Intermediate: Classes and interfaces](kotlin-tour-intermediate-classes-part-1.md)

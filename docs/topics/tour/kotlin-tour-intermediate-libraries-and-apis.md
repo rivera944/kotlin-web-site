@@ -1,5 +1,17 @@
 [//]: # (title: Intermediate: Libraries and APIs)
 
+<tldr>
+    <p><img src="icon-1-done.svg" width="20" alt="First step" /> <a href="kotlin-tour-intermediate-functions-part-1.md">Extension functions</a><br />
+        <img src="icon-2-done.svg" width="20" alt="Second step" /> <a href="kotlin-tour-intermediate-functions-part-2.md">Scope functions</a><br />
+        <img src="icon-3-done.svg" width="20" alt="Third step" /> <a href="kotlin-tour-intermediate-functions-part-3.md">Lambda expressions with receiver</a><br />
+        <img src="icon-4-done.svg" width="20" alt="Fourth step" /> <a href="kotlin-tour-intermediate-classes-part-1.md">Classes and interfaces</a><br />
+        <img src="icon-5-done.svg" width="20" alt="Fifth step" /> <a href="kotlin-tour-intermediate-classes-part-2.md">Objects</a><br />
+        <img src="icon-6-done.svg" width="20" alt="Sixth step" /> <a href="kotlin-tour-intermediate-classes-part-3.md">Open and special classes</a><br />
+        <img src="icon-7-done.svg" width="20" alt="Seventh step" /> <a href="kotlin-tour-intermediate-properties.md">Properties</a><br />
+        <img src="icon-8-done.svg" width="20" alt="Eighth step" /> <a href="kotlin-tour-intermediate-null-safety.md">Null safety</a><br />
+        <img src="icon-7.svg" width="20" alt="Ninth step" /> <strong>Libraries and APIs</strong><br /></p>
+</tldr>
+
 To get the most out of Kotlin, use existing libraries and APIs so you can spend more time coding and less time 
 reinventing the wheel.
 
@@ -283,4 +295,11 @@ What should the opt-in look like in your code?
 ```
 {initial-collapse-state="collapsed" collapsible="true" collapsed-title="Example solution" id="kotlin-tour-libraries-solution-3"}
 
-## Next step
+## What's next?
+
+Congratulations! Now that you have completed the intermediate tour, check out our tutorials for popular Kotlin applications:
+
+* [Create a backend application with Spring Boot and Kotlin](jvm-create-project-with-spring-boot.md)
+* Create a cross-platform application for Android and iOS from scratch and:
+    * [Share business logic while keeping the UI native](https://www.jetbrains.com/help/kotlin-multiplatform-dev/multiplatform-create-first-app.html)
+    * [Share business logic and UI](https://www.jetbrains.com/help/kotlin-multiplatform-dev/compose-multiplatform-create-first-app.html)

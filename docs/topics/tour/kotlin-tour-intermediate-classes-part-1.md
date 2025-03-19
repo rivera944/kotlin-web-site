@@ -12,7 +12,7 @@
         <img src="icon-7-todo.svg" width="20" alt="Seventh step" /> <a href="kotlin-tour-intermediate-libraries-and-apis.md">Libraries and APIs</a></p>
 </tldr>
 
-In the beginners' tour, you learned how to use classes and data classes to store data and maintain a collection of characteristics
+In the beginner tour, you learned how to use classes and data classes to store data and maintain a collection of characteristics
 that can be shared in your code. Eventually, you will want to create a hierarchy to efficiently share code within your 
 projects. This chapter explains the options Kotlin provides for this and how they can make your code safer and easier to maintain.
 

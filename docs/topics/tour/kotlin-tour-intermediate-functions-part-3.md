@@ -17,7 +17,7 @@ can make your code more concise and readable.
 
 ## Lambda expressions with receiver
 
-In the beginner's tour, you learned how to use [lambda expressions](kotlin-tour-functions.md#lambda-expressions). Lambda expressions can also have a receiver, 
+In the beginner tour, you learned how to use [lambda expressions](kotlin-tour-functions.md#lambda-expressions). Lambda expressions can also have a receiver, 
 which means that the lambda expression can access any member functions or properties of the receiver object without having
 to explicitly specify it each time. Without these additional references, your code is easier to read and maintain.
 

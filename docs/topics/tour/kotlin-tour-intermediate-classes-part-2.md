@@ -78,7 +78,7 @@ and returns a string to the console. The `DoAuth` object is only created when th
 #### Data objects
 
 To make it easier to print the contents of an object declaration, Kotlin has **data** objects. Similar to data classes,
-which you learned about in the beginners tour, data objects come automatically with additional member functions: 
+which you learned about in the beginner tour, data objects come automatically with additional member functions: 
 `.toString()` and `.equals()`.
 
 > Unlike data classes, data objects do not come automatically with the `.copy()` member function because they only have

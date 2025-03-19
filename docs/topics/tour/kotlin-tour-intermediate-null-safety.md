@@ -12,7 +12,7 @@
         <img src="icon-7-todo.svg" width="20" alt="Seventh step" /> <a href="kotlin-tour-intermediate-libraries-and-apis.md">Libraries and APIs</a></p>
 </tldr>
 
-In the beginner's tour, you learned how to handle `null` values in your code, but there are also use cases when using 
+In the beginner tour, you learned how to handle `null` values in your code, but there are also use cases when using 
 null safety features can be helpful.
 
 ## Smart casts and safe casts
@@ -287,7 +287,7 @@ use to make your code safer.
 
 ## Early returns and the Elvis operator
 
-In the beginner's tour, you learned how to use [early returns](kotlin-tour-functions.md#early-returns-in-functions) to stop
+In the beginner tour, you learned how to use [early returns](kotlin-tour-functions.md#early-returns-in-functions) to stop
 your function from being processed further than a certain point. You can use the Elvis operator `?:` with an early return
 to check preconditions in a function. This approach is a great way to keep your code concise because you don't need to use
 nested checks. The reduced complexity of your code also makes it easier to maintain. For example:

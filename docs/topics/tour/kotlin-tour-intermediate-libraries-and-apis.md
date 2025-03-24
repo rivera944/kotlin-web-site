@@ -9,7 +9,7 @@
         <img src="icon-6-done.svg" width="20" alt="Sixth step" /> <a href="kotlin-tour-intermediate-classes-part-3.md">Open and special classes</a><br />
         <img src="icon-7-done.svg" width="20" alt="Seventh step" /> <a href="kotlin-tour-intermediate-properties.md">Properties</a><br />
         <img src="icon-8-done.svg" width="20" alt="Eighth step" /> <a href="kotlin-tour-intermediate-null-safety.md">Null safety</a><br />
-        <img src="icon-7.svg" width="20" alt="Ninth step" /> <strong>Libraries and APIs</strong><br /></p>
+        <img src="icon-9.svg" width="20" alt="Ninth step" /> <strong>Libraries and APIs</strong><br /></p>
 </tldr>
 
 To get the most out of Kotlin, use existing libraries and APIs so you can spend more time coding and less time 

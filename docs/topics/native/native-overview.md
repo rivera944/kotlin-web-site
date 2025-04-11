@@ -54,7 +54,7 @@ are pre-imported and included as Kotlin/Native libraries in the compiler package
 
 ## Sharing code between platforms
 
-[Kotlin Multiplatform](multiplatform-intro.md) helps share common code across multiple platforms, including Android, iOS, JVM,
+[Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html) helps share common code across multiple platforms, including Android, iOS, JVM,
 web, and native. Multiplatform libraries provide the necessary APIs for common Kotlin code and allow writing shared parts
 of projects in Kotlin all in one place.
 
@@ -69,7 +69,7 @@ New to Kotlin? Take a look at [Getting started with Kotlin](getting-started.md).
 
 Recommended documentation:
 
-* [Introduction to Kotlin Multiplatform](multiplatform-intro.md)
+* [Introduction to Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)
 * [Interoperability with C](native-c-interop.md)
 * [Interoperability with Swift/Objective-C](native-objc-interop.md)
 

@@ -552,7 +552,7 @@ alongside the plugin, due to an option being effectively set twice.
 ## Breaking changes and deprecations
 
 * To align Kotlin Multiplatform with upcoming changes in Gradle, we are phasing out the `withJava()` function.
-  [Java source sets are now created by default](multiplatform-compatibility-guide.md#java-source-sets-created-by-default).
+  [Java source sets are now created by default](https://www.jetbrains.com/help/kotlin-multiplatform-dev/multiplatform-compatibility-guide.html#java-source-sets-created-by-default).
 
 * The JetBrains team is proceeding with the deprecation of the `kotlin-android-extensions` plugin. If you try to use it
   in your project, you'll now get a configuration error, and no plugin code will be executed.

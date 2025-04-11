@@ -69,7 +69,7 @@ If you encounter any difficulties or problems, report an issue in our [issue tra
 
 <tab id="cross-platform-mobile" title="Cross-platform">
 
-Here you'll learn how to develop a cross-platform application using [Kotlin Multiplatform](multiplatform-intro.md).
+Here you'll learn how to develop a cross-platform application using [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html).
 
 1. **[Set up your environment for cross-platform development](https://www.jetbrains.com/help/kotlin-multiplatform-dev/multiplatform-setup.html).**
 

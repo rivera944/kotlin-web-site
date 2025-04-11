@@ -468,7 +468,7 @@ build due to an option being set twice.
 ## Breaking changes and deprecations
 
 To align Kotlin Multiplatform with upcoming changes in Gradle, we are phasing out the `withJava()` function.
-[Java source sets are now created by default](multiplatform-compatibility-guide.md#java-source-sets-created-by-default).
+[Java source sets are now created by default](https://www.jetbrains.com/help/kotlin-multiplatform-dev/multiplatform-compatibility-guide.html#java-source-sets-created-by-default).
 
 ## How to update to Kotlin %kotlinEapVersion%
 

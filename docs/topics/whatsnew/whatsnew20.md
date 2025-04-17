@@ -643,19 +643,14 @@ Kotlin Playground supports the 2.0.0 release. [Check it out!](https://pl.kotl.in
 
 ### Support in IDEs
 
-By default, IntelliJ IDEA and Android Studio still use the previous compiler for code analysis, code completion,
-highlighting, and other IDE-related features. To get the full Kotlin 2.0 experience in your IDE, enable K2 mode.
+Starting with 2025.1, both IntelliJ IDEA and Android Studio use the new Kotlin K2 compiler by default for code analysis, code completion,
+highlighting, and other IDE-related features. You may notice differences in IDE analysis due to changes in compiler behavior.
+See all the details about how the new K2 compiler differs from the previous one in the [migration guide](k2-compiler-migration-guide.md).
 
-In your IDE, go to **Settings** | **Languages & Frameworks** | **Kotlin** and select the **Enable K2 mode** option.
-The IDE will analyze your code using its K2 mode.
+If you want to use the previous compiler in your IDE:
 
-![Enable K2 mode](k2-mode.png){width=200}
-
-After enabling K2 mode, you may notice differences in IDE analysis due to changes in compiler behavior. Learn how the
-new K2 compiler differs from the previous one in our [migration guide](k2-compiler-migration-guide.md).
-
-* Learn more about K2 mode in [our blog](https://blog.jetbrains.com/idea/2024/11/k2-mode-becomes-stable/).
-* We are actively collecting feedback about K2 mode, so please share your thoughts in our [public Slack channel](https://kotlinlang.slack.com/archives/C0B8H786P).
+1. Go to **Settings** | **Languages & Frameworks** | **Kotlin**.
+2. Deselect the **Enable K2 mode** option.
 
 ### Leave your feedback on the new K2 compiler
 

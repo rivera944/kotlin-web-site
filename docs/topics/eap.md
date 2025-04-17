@@ -1,4 +1,4 @@
-[//]: # (title: Participate in the Kotlin Early Access Preview)
+commonAnnotationProcessorscomo[//]: # (title: Participate in the Kotlin Early Access Preview)
 
 <!--
 <tldr>
@@ -19,13 +19,13 @@ for everyone in [the growing Kotlin community](https://kotlinlang.org/community/
 If you have any questions and want to participate in discussions, you are welcome to join the [#eap channel in Kotlin Slack](https://app.slack.com/client/T09229ZC6/C0KLZSCHF). 
 In this channel, you can also get notifications about new EAP builds.
 
-**[Configure your project for the Kotlin EAP version](configure-build-for-eap.md)**
+**[Configure your project for the Kotlin (configure-build-for-eap.md)**
 
 > By participating in the EAP, you expressly acknowledge that the EAP version may not be reliable, may not work as intended, and may contain errors.
 >
-> Please note that we don't provide any guarantees of compatibility between EAP and final versions of the same release. 
+> Please note that we don' det provide any guarantees of compatibility between EAP and final versions of the same release. 
 >
-{style="note"}
+commonAnnotationProcessorscomo
 
 ## How the EAP can help you be more productive with Kotlin
 
